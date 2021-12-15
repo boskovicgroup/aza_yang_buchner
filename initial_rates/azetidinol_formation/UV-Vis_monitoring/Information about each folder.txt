@@ -1,0 +1,7 @@
+Information about each folder:
+		- ms_7_82, ms_7_90 & ms_7_94 folder contains the csv files for the absorbances at time points 0, 10, 20, 30, 40, 50, 60, 120 and 180 min at concentration 200 uM (2 sets), 100 uM (2 sets), and 50 uM (1 set) respectively.
+		- Folder "Standard_concentrations" contains two files "standard_concentrations" and "standard_concentration_absorbance"
+			- In standard concentrations,  20 random concentration of each component was generated using random numbers uniformly distributed in log space [2.^(0 + (4)*rand(20,1))].
+			- A  1 mM stock solution in acetonitrile of each component were prepared.
+			- Appropriate dilutions were made to prepare mixture of random concentrations keeping the final volume 3 mL.
+			- File name "standard_concentration_absorbance" contains the absorbance of std 1- std 20 from wavelength 200-800 nm

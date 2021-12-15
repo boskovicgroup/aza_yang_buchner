@@ -1,0 +1,4 @@
+01_200uM_08032021- Absorbance at time points 1-20 min, then 30, 50, 60, 120 & 180 min @ 200uM Concentration in acetonitrile for acetophenone piperidinium toyslate. This 200 uM was prepared from a 1mM stock solution (5.1 mg in 13.6 mL acetonitrile)
+acetophenone_piperidinium_tosylate_08032021- new standards of concentraions 10, 20, 40, 80, 160 and 320 uM (prepared from 1mM stock made, described above)
+pTsOH_Standard_concentration_08032021- standard of pTsOH @ concentration 10, 20, 40, 80, 160, and 320 uM in acetonitrile
+scan rate: 4800 nm/ min (fast)
