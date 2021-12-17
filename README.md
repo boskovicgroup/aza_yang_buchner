@@ -1,4 +1,4 @@
-# aza_yang_buchner
+# Aza-Yang Buchner synthetic strategy
 Repository associated with the publication in which we describe synthesis of a compound collection based on aza-Yang and Buchner photochemical reactions
 The folders in this repository:
 1) excited_state_spectroscopy contains a MatLab script and the .csv files needed to reproduce panels in figure 5
