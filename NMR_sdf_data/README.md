@@ -1,0 +1,3 @@
+# How to use the .sdf files?
+These "structured data files" contain chemical structures and the NMR shift assignments. The file first lists coordinates of atoms in two dimensions (as seen in planar projections in commonly used programs for showing chemical structures), together with labels for the atoms. Then, the list of bonds is given with a label specifying whether the bond is single, double, or triple. Final blocks in the file specify carbon and proton shifts of the atoms. 
+One of the ways to view which atom is which in the structure is to open the file in ChemDraw, select the structure, right click on the structure, go to Atom and select Show Atom Number. This will explicitly show the numbering of the atoms used for specifying chemical shifts in this file. 
